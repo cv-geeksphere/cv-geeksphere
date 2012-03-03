@@ -39,11 +39,11 @@
                 </div>
 
                 <p>
-                    A geek at heart, I love to play with new technologies to keep myself updated to developments within the tech world. Specialise in getting things done, and making sure it doesn't break after.
+                    A geek at heart, I love to play with new technologies to keep myself up to date with developments within the tech world. I specialise in getting things done, and making sure it doesn't break after.
                 </p>
                 <p>
 
-                    A humanist and an entrepreneur as well, I believe that entrepreneurs, with the skills that they have, should be contributing more to creating value and pushing mankind forward, as opposed to simply earning more money by flipping startups. 
+                    A humanist and an entrepreneur, I believe that entrepreneurs, with the skills that they have, should be contributing more to creating value and pushing mankind forward, as opposed to simply earning more money by flipping startups. 
                 </p>
                 <div  class="page-header noPrint">
                     <h2>Stuff I Have Done</h2>
