@@ -43,7 +43,7 @@
                 </p>
                 <p>
 
-                    A humanist and an entrepreneur, I believe that entrepreneurs, with the skills that they have, should be contributing more to creating value and pushing mankind forward, as opposed to simply earning more money by flipping startups. 
+                    A humanist and an entrepreneur, I believe that entrepreneurs, with the skills that we have, should be contributing more to creating value and pushing mankind forward, as opposed to simply earning more money by flipping startups. 
                 </p>
                 <div  class="page-header noPrint">
                     <h2>Stuff I Have Done</h2>
