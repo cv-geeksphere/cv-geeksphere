@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Curriculum Vitae</title>
+        <title>Curriculum Vitae - Laurence Putra Franslay</title>
         <meta name="description" content="">
         <meta name="author" content="laurence, laurenceputra">
         <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->   
@@ -118,7 +118,7 @@
                         <li>Created a backend book ordering system for <a href="http://sg.mpmmath.com/" target="_blank">MPMmath</a></li>
                     </ul>
 
-                    <dt><i class="icon-asterisk"></i>Computing for Voluntary Welfare Organisations(<a href="http://www.comp.nus.edu.sg/~vwo/" target="_blank">Link</a>)</dt>
+                    <dt><i class="icon-asterisk"></i>Computing for Voluntary Welfare Organisations (<a href="http://www.comp.nus.edu.sg/~vwo/" target="_blank">Link</a>)</dt>
                     <ul>
                         <li>Engineer: <strong>May 2010 - May 2011</strong></li>
                         <li>Implemented the MINDS eClient system</li>
@@ -162,7 +162,7 @@
                     <h2>Education</h2>
                 </div>
                 <dl>
-                    <dt><i class="icon-asterisk"></i> National University of Singapore(<a href="http://nus.edu.sg/" target="_blank">Link</a>)</dt>
+                    <dt><i class="icon-asterisk"></i> National University of Singapore (<a href="http://nus.edu.sg/" target="_blank">Link</a>)</dt>
                     <ul>
                         <li>Bachelor of Computing in Computer Science: <strong>Aug 2009 - Present</strong></li>
                         <li>NUSHackers (<a href="http://nushackers.org" target="_blank">Link</a>): <strong>Aug 2010 - Present</strong>
@@ -184,7 +184,7 @@
 
             </div>
 
-            <div class="span3">
+            <div class="span3 noPrint">
                 <h2>Contact</h2>
                 <p><i class="icon-envelope"></i> <script type="text/javascript">
 <!--
@@ -192,8 +192,6 @@
 //-->
 </script>
                 </p>
-                <a href="#" class="btn btn-large noPrint" id="printBtn"><i class="icon-print"></i> Print</a>
-
                 <a href="Curriculum_Vitae.pdf" class="btn btn-large noPrint" id="downBtn"><i class="icon-download"></i> Download</a>
             </div>
         </div>
