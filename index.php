@@ -198,7 +198,6 @@
 
 
         <div class="container">
-            <footer>
                 <p>
                     <i class="icon-envelope"></i> 
 <script type="text/javascript">
@@ -207,12 +206,9 @@
 //-->
 </script> &nbsp; 
                     <i class="icon-map-marker"></i>
-                    Tembusu College;
-                    University Town, NUS;
                     26 College Avenue East, #21-156;
                     Singapore 138597;
                 </p>
-            </footer>
         </div>
         <script src="js/jquery.js"></script>
         <script src="js/bootstrap.js"></script>
