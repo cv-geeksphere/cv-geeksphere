@@ -14,7 +14,7 @@
         <link href="css/bootstrap.css" rel="stylesheet" >
         <link href="css/style.css" rel="stylesheet">
         <link href="css/print.css" rel="stylesheet" media="print">
-        <link rel="shortcut icon" href="images/favicon.ico" >
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
         <!--[if IE 6]><script type="text/javascript" src="http://deathtoie6.com/ie6-not-supported.js" ></script><![endif]-->
     </head>
     <body>
