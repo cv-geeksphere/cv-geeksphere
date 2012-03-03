@@ -96,8 +96,8 @@
 
                     <dt><i class="icon-asterisk"></i> Chalkboard Pte Ltd(<a href="http://yourchalkboard.com/" target="_blank">Link</a>)</dt>
                     <ul>
-                        <li>Engineer(Intern): <strong>May 2011 - Aug 2011</strong></li>
                         <li>Engineer(Contracted Consultant): <strong>Aug 2011 - Present</strong></li>
+                        <li>Engineer(Intern): <strong>May 2011 - Aug 2011</strong></li>
                         <li>Joined Chalkboard as an intern as a fellow in the <a href="http://sg.startuproot.sg" target="_blank">StartupRootsSG</a> fellowship</li>
                         <li>Programmed and Scaled Infrastructure and API</li>
                         <li>Created Chalkboard <a href="http://widget.yourchalkboard.com/" target="_blank">Webwidgets</a> and <a href="http://publisher.yourchalkboard.com/" target="_blank">Publishers' Platform</a></li>
@@ -106,8 +106,8 @@
 
                     <dt><i class="icon-asterisk"></i> National University of Singapore(<a href="http://nus.edu.sg/" target="_blank">Link</a>)</dt>
                     <ul>
-                        <li>Undergraduate Discussion Group Leader(<a href="http://ivle7.nus.edu.sg/lms/Account/NUSBulletin/msearch_view.aspx?modeCode=CS1101S&acadYear=2010/2011&semester=1" target="_blank">CS1101S</a>): <strong>Aug 2010 - Nov 2010</strong></li>
                         <li>Undergraduate Discussion Group Leader(<a href="http://ivle7.nus.edu.sg/lms/Account/NUSBulletin/msearch_view.aspx?modeCode=CS1010&acadYear=2011/2012&semester=1" target="_blank">CS1010</a>): <strong>Aug 2011 - Nov 2011</strong></li>
+                        <li>Undergraduate Discussion Group Leader(<a href="http://ivle7.nus.edu.sg/lms/Account/NUSBulletin/msearch_view.aspx?modeCode=CS1101S&acadYear=2010/2011&semester=1" target="_blank">CS1101S</a>): <strong>Aug 2010 - Nov 2010</strong></li>
                         <li>Taught programming classes in Scheme for CS1101S, and C for CS1010</li>
                     </ul>
 
