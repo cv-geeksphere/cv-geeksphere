@@ -22,7 +22,7 @@
             <div class="span8">
 
                 <div class="thumbnail span3">
-                    <img src="images/photo.png" alt="" />
+                    <img src="images/photo.jpg" alt="" />
                 </div>
                 <div class="hero-unit span4">
                     <h1>Laurence Putra Franslay</h1>
