@@ -94,24 +94,24 @@
                 </div> 
                 <dl>
 
-                    <dt><i class="icon-asterisk"></i> Chalkboard Pte Ltd(<a href="http://yourchalkboard.com/" target="_blank">Link</a>)</dt>
+                    <dt><i class="icon-asterisk"></i> Chalkboard Pte Ltd (<a href="http://yourchalkboard.com/" target="_blank">Link</a>)</dt>
                     <ul>
-                        <li>Engineer(Contracted Consultant): <strong>Aug 2011 - Present</strong></li>
-                        <li>Engineer(Intern): <strong>May 2011 - Aug 2011</strong></li>
+                        <li>Engineer (Contracted Consultant): <strong>Aug 2011 - Present</strong></li>
+                        <li>Engineer (Intern): <strong>May 2011 - Aug 2011</strong></li>
                         <li>Joined Chalkboard as an intern as a fellow in the <a href="http://sg.startuproot.sg" target="_blank">StartupRootsSG</a> fellowship</li>
                         <li>Programmed and Scaled Infrastructure and API</li>
                         <li>Created Chalkboard <a href="http://widget.yourchalkboard.com/" target="_blank">Webwidgets</a> and <a href="http://publisher.yourchalkboard.com/" target="_blank">Publishers' Platform</a></li>
                         <li>Conversion from SVN to Git</li>
                     </ul>   
 
-                    <dt><i class="icon-asterisk"></i> National University of Singapore(<a href="http://nus.edu.sg/" target="_blank">Link</a>)</dt>
+                    <dt><i class="icon-asterisk"></i> National University of Singapore (<a href="http://nus.edu.sg/" target="_blank">Link</a>)</dt>
                     <ul>
-                        <li>Undergraduate Discussion Group Leader(<a href="http://ivle7.nus.edu.sg/lms/Account/NUSBulletin/msearch_view.aspx?modeCode=CS1010&acadYear=2011/2012&semester=1" target="_blank">CS1010</a>): <strong>Aug 2011 - Nov 2011</strong></li>
-                        <li>Undergraduate Discussion Group Leader(<a href="http://ivle7.nus.edu.sg/lms/Account/NUSBulletin/msearch_view.aspx?modeCode=CS1101S&acadYear=2010/2011&semester=1" target="_blank">CS1101S</a>): <strong>Aug 2010 - Nov 2010</strong></li>
+                        <li>Undergraduate Discussion Group Leader (<a href="http://ivle7.nus.edu.sg/lms/Account/NUSBulletin/msearch_view.aspx?modeCode=CS1010&acadYear=2011/2012&semester=1" target="_blank">CS1010</a>): <strong>Aug 2011 - Nov 2011</strong></li>
+                        <li>Undergraduate Discussion Group Leader (<a href="http://ivle7.nus.edu.sg/lms/Account/NUSBulletin/msearch_view.aspx?modeCode=CS1101S&acadYear=2010/2011&semester=1" target="_blank">CS1101S</a>): <strong>Aug 2010 - Nov 2010</strong></li>
                         <li>Taught programming classes in Scheme for CS1101S, and C for CS1010</li>
                     </ul>
 
-                    <dt><i class="icon-asterisk"></i>Hulutech(<a href="http://www.hulutech.com/" target="_blank">Link</a>)</dt>
+                    <dt><i class="icon-asterisk"></i>Hulutech (<a href="http://www.hulutech.com/" target="_blank">Link</a>)</dt>
                     <ul>
                         <li>Engineer: <strong>Jan 2011 - April 2011</strong></li>
                         <li>On the team redesigning the 65Daigou site, a project which was eventually scrapped</li>
@@ -130,20 +130,20 @@
                     <h2>Side Projects</h2>
                 </div> 
                 <dl>
-                    <dt><i class="icon-asterisk"></i> StartupRootsSG(<a href="http://sg.startuproots.org/" target="_blank">Link</a>)</dt>
+                    <dt><i class="icon-asterisk"></i> StartupRootsSG (<a href="http://sg.startuproots.org/" target="_blank">Link</a>)</dt>
                     <ul>
                         <li>Organiser: <strong>Jan 2012 - Present</strong></li>
                         <li>Linked the top startups in Singapore to the top students</li>
                         <li>Interviewed (technical) students</li>
                         <li>Planned and organised events for the duration of the fellowship</li>
                     </ul>
-                    <dt><i class="icon-asterisk"></i> IWasntPaid.com(<a href="http://iwasntpaid.com" target="_blank">Link</a>)</dt>
+                    <dt><i class="icon-asterisk"></i> IWasntPaid.com (<a href="http://iwasntpaid.com" target="_blank">Link</a>)</dt>
                     <ul>
                         <li>Founder: <strong>Jan 2012 - Present</strong></li>
                         <li>Website for freelance developers to report their horror stories and hopefully get paid for what they have done</li>
                         <li>Helped a few freelancers get their pay back</li>
                     </ul>
-                    <dt><i class="icon-asterisk"></i> GeekcampSG(<a href="http://geekcamp.pbworks.com" target="_blank">Link</a>)</dt>
+                    <dt><i class="icon-asterisk"></i> GeekcampSG (<a href="http://geekcamp.pbworks.com" target="_blank">Link</a>)</dt>
                     <ul>
                         <li>Organiser: <strong>July 2011 - Present</strong></li>
                         <li>Organised GeekcampSG, one of the largest Geek conferences in Singapore</li>
@@ -165,7 +165,7 @@
                     <dt><i class="icon-asterisk"></i> National University of Singapore(<a href="http://nus.edu.sg/" target="_blank">Link</a>)</dt>
                     <ul>
                         <li>Bachelor of Computing in Computer Science: <strong>Aug 2009 - Present</strong></li>
-                        <li>NUSHackers(<a href="http://nushackers.org" target="_blank">Link</a>): <strong>Aug 2010 - Present</strong>
+                        <li>NUSHackers (<a href="http://nushackers.org" target="_blank">Link</a>): <strong>Aug 2010 - Present</strong>
                             <ul>
                                 <li>Coreteam member</li>
                                 <li>Organised Hack Workshop Series, which was supported by the iDA</li>
@@ -173,7 +173,7 @@
                                 <li>Organised Hack&Roll, a 24 hour Hackathon</li>
                             </ul>
                         </li>
-                        <li>Computing for Voluntary Welfare Organisations(<a href="http://www.comp.nus.edu.sg/~vwo/" target="_blank">Link</a>): <strong>Aug 2009 - May 2011</strong>
+                        <li>Computing for Voluntary Welfare Organisations (<a href="http://www.comp.nus.edu.sg/~vwo/" target="_blank">Link</a>): <strong>Aug 2009 - May 2011</strong>
                             <ul>
                                 <li>Held workshops teaching the new applicants about PHP, as well as the LAMP stack</li>
                                 <li>Created and graded the PHP assignments</li>
