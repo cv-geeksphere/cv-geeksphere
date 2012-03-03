@@ -98,7 +98,7 @@
                     <ul>
                         <li>Engineer (Contracted Consultant): <strong>Aug 2011 - Present</strong></li>
                         <li>Engineer (Intern): <strong>May 2011 - Aug 2011</strong></li>
-                        <li>Joined Chalkboard as an intern as a fellow in the <a href="http://sg.startuproot.sg" target="_blank">StartupRootsSG</a> fellowship</li>
+                        <li>Joined Chalkboard as an intern as a fellow in the <a href="http://sg.startuproot.org" target="_blank">StartupRootsSG</a> fellowship</li>
                         <li>Programmed and Scaled Infrastructure and API</li>
                         <li>Created Chalkboard <a href="http://widget.yourchalkboard.com/" target="_blank">Webwidgets</a> and <a href="http://publisher.yourchalkboard.com/" target="_blank">Publishers' Platform</a></li>
                         <li>Conversion from SVN to Git</li>
@@ -114,7 +114,7 @@
                     <dt><i class="icon-asterisk"></i>Hulutech (<a href="http://www.hulutech.com/" target="_blank">Link</a>)</dt>
                     <ul>
                         <li>Engineer: <strong>Jan 2011 - April 2011</strong></li>
-                        <li>On the team redesigning the 65Daigou site, a project which was eventually scrapped</li>
+                        <li>On the team redesigning the 65Daigou site</li>
                         <li>Created a backend book ordering system for <a href="http://sg.mpmmath.com/" target="_blank">MPMmath</a></li>
                     </ul>
 
@@ -198,6 +198,7 @@
 
 
         <div class="container">
+            <footer>
                 <p>
                     <i class="icon-envelope"></i> 
 <script type="text/javascript">
@@ -206,9 +207,12 @@
 //-->
 </script> &nbsp; 
                     <i class="icon-map-marker"></i>
+                    Tembusu College;
+                    University Town, NUS;
                     26 College Avenue East, #21-156;
                     Singapore 138597;
                 </p>
+            </footer>
         </div>
         <script src="js/jquery.js"></script>
         <script src="js/bootstrap.js"></script>
