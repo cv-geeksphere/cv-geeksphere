@@ -39,48 +39,48 @@
                 </div>
 
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mauris arcu, ultricies in vestibulum in, iaculis nec enim. Quisque sapien odio, venenatis mollis mollis id, pulvinar congue sapien. 
+                    A geek at heart, I love to playing with new technologies to keep myself updated to developments within the tech world. Specialise in getting things done, and making sure it doesn't break after.
                 </p>
                 <p>
 
-                    Donec laoreet faucibus odio quis sollicitudin. Sed sagittis semper ultrices. Morbi eget eros felis, vel convallis nibh. Quisque ut felis magna, at lobortis sem. 
+                    A humanist and an entrepreneur as well, I believe that entrepreneurs, with the skills that they have, should be contributing more to creating value and pushing mankind forward, as opposed to simply earning more money by flipping startups. 
                 </p>
                 <div  class="page-header noPrint">
-                    <h2>Last work</h2>
+                    <h2>Stuff I Have Done</h2>
                 </div>
                 <div id="myCarousel" class="carousel noPrint">
                     <!-- Carousel items -->
                     <div class="carousel-inner">
                         <div class="active item">
 
-                            <img src="images/1.jpg" alt="" />
+                            <img src="images/webwidget.jpg" alt="" />
                             <div class="carousel-caption">
-                                <h4>1 - Thumbnail label</h4>
-                                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                <h4>Chalkboard Webwidget</h4>
+                                <p>Displayed Promotions near a user when they browse a page with the Webwidget on it. Done with Javascript and HTML5.</p>
                             </div>
                         </div>
                         <div class="item">
-                            <img src="images/2.jpg" alt="" />
+                            <img src="images/publishers.jpg" alt="" />
 
                             <div class="carousel-caption">
-                                <h4>2 - Thumbnail label</h4>
-                                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                <h4>Chalkboard Publisher Platform</h4>
+                                <p>Platform for Publishers and Developers manage their use of Chalkboard Webwidgets, as well as the API.</p>
                             </div>
                         </div>
                         <div class="item">
-                            <img src="images/3.jpg" alt="" />
+                            <img src="images/hacknroll.jpg" alt="" />
                             <div class="carousel-caption">
 
-                                <h4>3 - Thumbnail label</h4>
-                                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                <h4>Hack&Roll '12</h4>
+                                <p>On the organising team of Hack&Roll '12, bringing geeks from all over NUS to come together for 24 hours of coding and building stuff.</p>
                             </div>
                         </div>
                         <div class="item">
-                            <img src="images/4.jpg" alt="" />
+                            <img src="images/geekcampsg.jpg" alt="" />
                             <div class="carousel-caption">
-                                <h4>4 - Thumbnail label</h4>
+                                <h4>GeekcampSG</h4>
 
-                                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                <p>Helped organised GeekcampSG 2011, bringing geeks out from all over the world on a Saturday for a day of intellectual sharing.</p>
                             </div>
                         </div>
                     </div>
@@ -152,7 +152,7 @@
                 </dl>  
 
                 <div class="page-header">
-                    <h2>Technology I play with</h2>
+                    <h2>Technology I Play With</h2>
                 </div> 
                 <dl>
                     <dd>C/C++, C#/.NetFramework, PHP/Codeigniter, Python/Django, nginx, Apache, CentOS/Fedora, mongoDB, PostgreSQL/PostGIS, memcached, LATEX, HTML5, CSS3, Javascript</dd>
