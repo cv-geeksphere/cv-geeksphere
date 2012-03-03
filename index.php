@@ -141,7 +141,7 @@
                     <ul>
                         <li>Founder: <strong>Jan 2012 - Present</strong></li>
                         <li>Website for freelance developers to report their horror stories and hopefully get paid for what they have done</li>
-                        <li>Helped a few freelancers get their pay back</li>
+                        <li>Helped freelancers get their pay back</li>
                     </ul>
                     <dt><i class="icon-asterisk"></i> GeekcampSG (<a href="http://geekcamp.pbworks.com" target="_blank">Link</a>)</dt>
                     <ul>
