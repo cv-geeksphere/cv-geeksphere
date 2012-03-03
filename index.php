@@ -39,7 +39,7 @@
                 </div>
 
                 <p>
-                    A geek at heart, I love to playing with new technologies to keep myself updated to developments within the tech world. Specialise in getting things done, and making sure it doesn't break after.
+                    A geek at heart, I love to play with new technologies to keep myself updated to developments within the tech world. Specialise in getting things done, and making sure it doesn't break after.
                 </p>
                 <p>
 
