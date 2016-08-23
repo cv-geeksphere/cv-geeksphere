@@ -1,2 +1,11 @@
-.noPrint{display: none}
-.print{display:block}
+a {
+    display: none
+}
+
+.noPrint {
+    display: none
+}
+
+.print {
+    display: block
+}
